@@ -1,0 +1,43 @@
+.flash {
+  background: #f6f9fc;
+  padding: 50px 0;
+}
+.product {
+  width: "194px";
+  background: #fff;
+  padding: 20px;
+  position: relative;
+  border-radius: 8px;
+  box-shadow: rgb(3 0 71 / 9%) 0px 1px 3px;
+  margin: 10px;
+}
+.box1{
+  display: flex;
+}
+.box{
+  width: 325px;
+}
+.img > img{
+  width: 268px;
+}
+@media (max-width: 768px){
+  .img > img{
+   width:100px
+  }
+  .box{
+    width: 98px;
+  }
+  .flash {
+    background: #f6f9fc;
+    padding: 50px 0;
+    height: 300px;
+  }
+  .product-details{
+    font-size: 8px;
+    margin-left: 18px;
+
+  }
+  .rate{
+    width: 100px;
+  }
+}

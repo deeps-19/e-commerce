@@ -1,0 +1,102 @@
+const Data = {
+    productItems: [
+      {
+        id: 1,
+        discount: 50,
+        cover: "./images/flash/flash-1.png",
+        name: "Shoes",
+        price: "₹100",
+      },
+      {
+        id: 2,
+        discount: 40,
+        cover: "./images/flash/flash-2.png",
+        name: "Watch",
+        price: "₹2000",
+      },
+      {
+        id: 3,
+        discount: 40,
+        cover: "./images/flash/flash-3.png",
+        name: "Smart Mobile Black",
+        price: "₹200",
+      },
+      {
+        id: 4,
+        discount: 40,
+        cover: "./images/flash/flash-4.png",
+        name: "Smart Watch Black",
+        price: "₹50",
+      },
+      {
+        id: 5,
+        discount: 50,
+        cover: "./images/flash/flash-1.png",
+        name: "Shoes",
+        price: "₹100",
+      },
+      {
+        id: 6,
+        discount: 50,
+        cover: "./images/flash/flash-3.png",
+        name: "Shoes",
+        price: "₹100",
+      },
+      {
+        id: 7,
+        discount: 50,
+        cover: "./images/discount/discount-1.png",
+        name: "BenuX 2022",
+        price: "₹250",
+      },
+      {
+        id: 8,
+        cover: "./images/discount/discount-2.png",
+        name: "Sony TV 1080p",
+        price: "₹450",
+      },
+      {
+        id: 9,
+        cover: "./images/discount/discount-3.png",
+        name: "Sony PS4",
+        price: "₹50",
+      },
+      {
+        id: 10,
+        cover: "./images/discount/discount-4.png",
+        name: "Setgearr 2022",
+        price: "₹100",
+      },
+      {
+        id: 11,
+        cover: "./images/discount/discount-5.png",
+        name: "Tony BGB",
+        price: "₹20",
+      },
+      {
+        id: 12,
+        cover: "./images/discount/discount-6.png",
+        name: "RG products",
+        price: "₹200",
+      },
+      {
+        id: 13,
+        cover: "./images/discount/discount-7.png",
+        name: "Ranasonic 2022",
+        price: "₹300",
+      },
+      {
+        id: 14,
+        cover: "./images/discount/discount-8.png",
+        name: "Pune HD",
+        price: "₹30",
+      },
+      {
+        id: 15,
+        cover: "./images/discount/discount-9.png",
+        name: "Sony CCTV",
+        price: "₹80",
+      },
+    ],
+  }
+  export default Data
